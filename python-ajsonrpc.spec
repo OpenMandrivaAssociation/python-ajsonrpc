@@ -1,6 +1,6 @@
 Name:		python-ajsonrpc
 Version:	1.2.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/a/ajsonrpc/ajsonrpc-%{version}.tar.gz
 Summary:	Async JSON-RPC 2.0 protocol + server powered by asyncio
 URL:		https://pypi.org/project/ajsonrpc/
